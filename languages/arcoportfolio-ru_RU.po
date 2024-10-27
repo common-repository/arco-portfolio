@@ -1,0 +1,233 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ArCoPortfolio\n"
+"POT-Creation-Date: 2015-12-01 11:05+0200\n"
+"PO-Revision-Date: 2015-12-01 16:56+0200\n"
+"Last-Translator: \n"
+"Language-Team: ArCoLex\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../arco-portfolio-settings.php:12
+msgid "Layout Settings"
+msgstr "Настройки макета"
+
+#: ../arco-portfolio-settings.php:12
+msgid "JQuery settings"
+msgstr "Настройки jQuery"
+
+#: ../arco-portfolio-settings.php:41
+msgid "Columns Count"
+msgstr "Кол-во колонок"
+
+#: ../arco-portfolio-settings.php:43
+msgid "Desktops:"
+msgstr "Монитор"
+
+#: ../arco-portfolio-settings.php:51
+msgid "Tablets:"
+msgstr "Планшет"
+
+#: ../arco-portfolio-settings.php:59
+msgid "Phones:"
+msgstr "Смартфон"
+
+#: ../arco-portfolio-settings.php:71
+msgid "Skin color scheme"
+msgstr "Цветовая схема"
+
+#: ../arco-portfolio-settings.php:82
+msgid "Add Box Shadow"
+msgstr "Добавить тень"
+
+#: ../arco-portfolio-settings.php:86
+msgid "YES"
+msgstr "ДА"
+
+#: ../arco-portfolio-settings.php:87
+msgid "NO"
+msgstr "НЕТ"
+
+#: ../arco-portfolio-settings.php:93
+msgid "Portfolio Post link text"
+msgstr "Текст ссылки страницы портфолио"
+
+#: ../arco-portfolio-settings.php:95
+msgid "Read about this project"
+msgstr "Подробно о проекте"
+
+#: ../arco-portfolio-settings.php:101
+msgid "Portfolio URL link text"
+msgstr "Текст ссылки на сайт проекта"
+
+#: ../arco-portfolio-settings.php:103
+msgid "Visit project site"
+msgstr "Посетить сайт"
+
+#: ../arco-portfolio-settings.php:109
+msgid "Open links in new window"
+msgstr "Открывать ссылки в новой вкладке"
+
+#: ../arco-portfolio-settings.php:112
+msgid "Check this if you want to open outgoing portfolio links in new window"
+msgstr ""
+"Отметьте, если хотите, чтобы внешние ссылки открывались в новой вкладке"
+
+#: ../arco-portfolio-settings.php:121
+msgid "Animation script"
+msgstr "Скрипт анимации"
+
+#: ../arco-portfolio-settings.php:127
+msgid "Select JQuery script for portfolio items animation"
+msgstr "Выбрать JQuery плагин для анимации"
+
+#: ../arco-portfolio-settings.php:132
+msgid "is a jQuery plugin providing animated filtering and sorting"
+msgstr "- jQuery плагин для анимации фильтров и сортировки"
+
+#: ../arco-portfolio-settings.php:136
+msgid "Filter and sort magical layouts jQuery plugin"
+msgstr "отличный JQuery плагин фильтров и сортировки"
+
+#: ../arco-portfolio-settings.php:139
+msgid "Lightbox script"
+msgstr "Скрипт для Лайтбокса"
+
+#: ../arco-portfolio-settings.php:145
+msgid "Select JQuery script for portfolio items lightbox effect"
+msgstr "Выбрать JQuery плагин для эффекта Лайтбокс"
+
+#: ../arco-portfolio-settings.php:150
+msgid "A lightweight customizable lightbox plugin for jQuery"
+msgstr "Настраиваемый \"лайтбокс\"-эффект на JQuery"
+
+#: ../arco-portfolio-settings.php:154
+msgid ""
+"is a tool for displaying images, html content and multi-media in a Mac-style "
+"\"lightbox\""
+msgstr "- инструмент для реализации \"лайтбокс\"-эффекта в стиле Mac"
+
+#: ../arco-portfolio-settings.php:163
+msgid "Update Settings"
+msgstr "Обновить настройки"
+
+#: ../arco-portfolio-settings.php:201
+msgid "Settings Saved"
+msgstr "Настройки сохранены"
+
+#: ../arco-portfolio-settings.php:201
+msgid "Hide this message"
+msgstr "Спрятать это сообщение"
+
+#: ../arco-portfolio-settings.php:210
+msgid "Like this plugin?"
+msgstr "Вам понравился этот плагин?"
+
+#: ../arco-portfolio-settings.php:213
+msgid "Rate it on WordPress.org"
+msgstr "Проголосовать на сайте Wordpress"
+
+#: ../arco-portfolio-settings.php:214
+msgid "Follow me on Twitter"
+msgstr "Подписаться на мой Twitter"
+
+#: ../arco-portfolio-settings.php:215
+msgid "Donate"
+msgstr "Пожертвования"
+
+#: ../arco-portfolio-shortcode.php:30
+msgid "All"
+msgstr "Все"
+
+#: ../arco-portfolio.php:130
+msgid "ArCo Portfolio"
+msgstr "ArCo-портфолио"
+
+#: ../arco-portfolio.php:131
+msgid "Add Portfolio Item"
+msgstr "Добавить проект"
+
+#: ../arco-portfolio.php:132
+msgid "Filters"
+msgstr "Фильтры"
+
+#: ../arco-portfolio.php:133 ../arco-portfolio.php:139
+msgid "Portfolio settings"
+msgstr "Настройки"
+
+#: ../arco-portfolio.php:134 ../arco-portfolio.php:151
+msgid "Portfolio items"
+msgstr "Проекты"
+
+#: ../arco-portfolio.php:153
+msgid "Portfolio Items"
+msgstr "Проекты"
+
+#: ../arco-portfolio.php:154 ../arco-portfolio.php:159
+msgid "Portfolio Item"
+msgstr "Проект"
+
+#: ../arco-portfolio.php:155
+msgid "Edit Portfolio Items"
+msgstr "Изменить проект"
+
+#: ../arco-portfolio.php:156
+msgid "Add new Portfolio Item"
+msgstr "Добавить проект"
+
+#: ../arco-portfolio.php:157
+msgid "View Portfolio Item"
+msgstr "Посмотреть проект"
+
+#: ../arco-portfolio.php:181
+msgid "Portfolio filters"
+msgstr "Категории портфолио"
+
+#: ../arco-portfolio.php:182
+msgid "Portfolio filter"
+msgstr "Категория портфолио"
+
+#: ../arco-portfolio.php:200
+msgid "Item Options"
+msgstr "Свойства проекта"
+
+#: ../arco-portfolio.php:208
+msgid "Image or Video URL"
+msgstr "URL изображения или видео"
+
+#: ../arco-portfolio.php:210
+msgid "From Media Library"
+msgstr "Из медиа-библиотеки"
+
+#: ../arco-portfolio.php:211
+msgid ""
+"Enter full-size image or video (youtube, vimeo etc...) URL for the lightbox. "
+"You can also choose Image from your Media gallery."
+msgstr ""
+"Введите полный URL изображения или видео (youtube, vimeo и т.д.) для "
+"Лайтбокса. Вы можете, так же, выбрать изображение из медиа-библиотеки."
+
+#: ../arco-portfolio.php:214
+msgid "Portfolio URL"
+msgstr "URL ссылки на сайт проекта"
+
+#: ../arco-portfolio.php:216
+msgid "Enter this project live version URL."
+msgstr "Введите URL действующего сайта"
+
+#: ../arco-portfolio.php:244
+msgid "Thumbnail"
+msgstr "Миниатюра"
+
+#: ../arco-portfolio.php:245
+msgid "Item Filter"
+msgstr "Категория проекта"
